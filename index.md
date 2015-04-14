@@ -1,6 +1,6 @@
 ---
 title       : Teste no GitHub
-subtitle    : 
+subtitle    : git
 author      : Fernando Mayer
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
